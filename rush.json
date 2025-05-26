@@ -341,6 +341,12 @@
       "projectFolder": "projects/backend-express",
       "reviewCategory": "production",
       "shouldPublish": false
+    },
+    {
+      "packageName": "frontend-react",
+      "projectFolder": "projects/frontend-react",
+      "reviewCategory": "production",
+      "shouldPublish": false
     }
     // {
     //   /**
